@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
-        "dompdf/dompdf": "dev-master#4d890e0ee9e113812103a8b2c56ec6387f5d086c"
+        "dompdf/dompdf": "dev-master"
     },
     "autoload": {
         "psr-0": {
